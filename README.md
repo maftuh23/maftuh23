@@ -2,7 +2,7 @@
 
 Name : Maftuh Ichsan
 Facebook : https://www.facebook.com/maftuhisan <br>
-Linkedin : https://www.linkedin.com/in/maftuh-ichsan-456984198/
+Linkedin : https://www.linkedin.com/in/maftuh-ichsan-456984198/<br>
 Website : skyetech.team/
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=maftuh23&show_icons=true&fbclid=IwAR0l4Ic2u2M8d4pAMvqJkZfWLvJi-WTUc79r7tCE6f-L5Rpe3U26odRp680)
