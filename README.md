@@ -1,5 +1,8 @@
 ### Welcome 👋
 
+
+![Profile views](https://gpvc.arturio.dev/maftuh23)
+
 Name : Maftuh Ichsan
 Facebook : https://www.facebook.com/maftuhisan <br>
 Linkedin : https://www.linkedin.com/in/maftuh-ichsan-456984198/<br>
