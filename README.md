@@ -8,7 +8,7 @@ Facebook : https://www.facebook.com/maftuhisan <br>
 Linkedin : https://www.linkedin.com/in/maftuh-ichsan-456984198/<br>
 Website : https://skyetech.team/
 
-![github stats](https://github-readme-stats.vercel.app/api?username=maftuh23&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=maftuh23&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <!--
 **maftuh23/maftuh23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
