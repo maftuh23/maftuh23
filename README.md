@@ -8,6 +8,9 @@ Facebook : https://www.facebook.com/maftuhisan <br>
 Linkedin : https://www.linkedin.com/in/maftuh-ichsan-456984198/<br>
 Website : https://skyetech.team/
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=maftuh23&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maftuh23&theme=react&hide_border=false)<br/>
