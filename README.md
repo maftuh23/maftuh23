@@ -1,7 +1,7 @@
 ### Welcome 👋
 
 
-![Profile views](https://image.coollabs.io/image/https://higher.id/Maftuh.png?height=409&width=320&quality=90)
+![Profile views](https://image.coollabs.io/image/https://higher.id/Maftuh.png?height=309&width=220&quality=90)
 
 Name : Maftuh Ichsan<br>
 Facebook : https://www.facebook.com/maftuhisan <br>
