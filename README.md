@@ -11,11 +11,11 @@ Website : https://skyetech.team/
 <!--START_SECTION:waka-->
 
 ```txt
-PHP                        541 hrs 20 mins █████████████████▒░░░░░░░   69.38 %
-Blade Template             92 hrs 30 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
-JavaScript                 24 hrs 56 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-TypeScript                 21 hrs 33 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-Bash                       19 hrs 46 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+PHP                        543 hrs 23 mins █████████████████▒░░░░░░░   69.39 %
+Blade Template             92 hrs 30 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
+JavaScript                 24 hrs 56 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+TypeScript                 21 hrs 34 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+Bash                       19 hrs 55 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
 ```
 
 <!--END_SECTION:waka-->
