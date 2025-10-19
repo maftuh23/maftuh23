@@ -13,7 +13,7 @@ Website : https://skyetech.team/
 ```txt
 PHP                        1,107 hrs 48 mins████████████████▒░░░░░░░░   65.33 %
 Blade Template             192 hrs 48 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
-TypeScript                 135 hrs 26 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
+TypeScript                 135 hrs 31 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
 Bash                       56 hrs 35 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
 JavaScript                 33 hrs 36 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
 ```
